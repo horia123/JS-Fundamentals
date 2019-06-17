@@ -1,0 +1,9 @@
+---Javascript versions and history---
+
+ 1995   |   Created by Brendan Eich
+ 1997   |   ECMA Standard, ECMAScript
+ ECMA = European Computer Manufacturers Association
+ 1999   |   ECMA3
+ 2009   |   ECMAScript(ES5) -> ES4 was never released
+ 2015   |   ECMAScript2015(ES6)
+ starting with 2015 -> Yearly updates.
